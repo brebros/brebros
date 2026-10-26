@@ -16,7 +16,7 @@ Workbench & toolbox, rapi berderet A–Z.
 | [**aura-fitting-room**](https://github.com/brebros/aura-fitting-room) | 3D Virtual Fitting Room & E-Commerce Web App |
 | [**ball-solver**](https://github.com/brebros/ball-solver) | Multi-rail bank/kick solver — Python CLI (agent-spec) + live mobile web UI → [play](https://brebros.github.io/ball-solver/) |
 | [**chainsleuth**](https://github.com/brebros/chainsleuth) | AI-powered rug pull detector — paste a contract, get the truth |
-| [**Testnet-DLMM**](https://github.com/brebros/Testnet-DLMM) | DLMM (DEX liquidity) experiments on testnet |
+| [**testnet-dlmm**](https://github.com/brebros/testnet-dlmm) | DLMM (DEX liquidity) experiments on testnet |
 
 ## 🎯 Bounty — A–Z (private)
 
